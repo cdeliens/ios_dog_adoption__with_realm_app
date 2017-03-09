@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "682E008241EB616FCF19938A85C5A189A84369A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C5CDD24B2EAE58237A8068BF9FD8313FA34DDAE1" : 9223372036854775807,
+    "682E008241EB616FCF19938A85C5A189A84369A0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B3C23B4E-1AC2-4648-A15C-85BEA18483E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C5CDD24B2EAE58237A8068BF9FD8313FA34DDAE1" : "",
+    "682E008241EB616FCF19938A85C5A189A84369A0" : "Dog%20Adoption%20with%20Realm\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Dog Adoption",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Dog Adoption.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cdeliens\/ios_dog_adoption_app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "682E008241EB616FCF19938A85C5A189A84369A0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cdeliens\/ios_concierge_project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C5CDD24B2EAE58237A8068BF9FD8313FA34DDAE1"
+    }
+  ]
+}

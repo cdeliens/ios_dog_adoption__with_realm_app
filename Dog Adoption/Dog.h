@@ -7,17 +7,21 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <Realm/Realm.h>
 
-@interface Dog : NSObject
+@interface Dog : RLMObject
 
-@property (readonly) NSString *name;
-@property (readonly) NSString *color;
-@property (readonly) NSString *image;
-@property (readonly) NSString *location;
-@property (readonly) NSString *contactInformation;
-@property (readonly) int age;
+@property NSString *name;
+@property NSString *color;
+@property NSString *image;
+@property NSString *location;
+@property NSString *contactInformation;
+@property int age;
+@property int dogId;
 
--(id) initWithName:(NSString *)name color:(NSString *)color location:(NSString *)location image:(NSString *)image contactInformation:(NSString *)contactInformation age:(int)age;
+
+-(id) initWithName:(NSString *)name color:(NSString *)color location:(NSString *)location image:(NSString *)image contactInformation:(NSString *)contactInformation age:(int)age dogId:(int)dogId;
 
 @end
 
+RLM_ARRAY_TYPE(Dog)

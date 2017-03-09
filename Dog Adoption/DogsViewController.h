@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "RealmManager.h"
 
 @interface DogsViewController : UIViewController
 

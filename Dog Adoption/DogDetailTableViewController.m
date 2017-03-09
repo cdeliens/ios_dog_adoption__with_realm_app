@@ -9,6 +9,7 @@
 #import "DogDetailTableViewController.h"
 #import "Dog.h"
 
+
 @interface DogDetailTableViewController ()
 @property (strong, nonatomic) IBOutlet UIImageView *image;
 @property (strong, nonatomic) IBOutlet UILabel *location;
